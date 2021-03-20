@@ -27,7 +27,7 @@ https://rsolov23.github.io/Horiseon-Weekly-Challenge/
 -My fantastic team at UT, Trilogy, and 2U. Special shout out to Sean, Donte, Brendan, Megan, Tori, Mike and Bradley
 
 
-https://github.com/rsolov23/rsolov23.github.io.git
+
 
 
 
