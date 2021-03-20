@@ -15,11 +15,11 @@ Horiseon is a company that focuses on search engine optimization, online reputat
 
 ## Github Profile <a name = "github-profile"></a>
 
-https://github.com/rsolov23/Horiseon.git
+https://github.com/rsolov23/Horiseon-Weekly-Challenge
 
 ## Link to Horiseon <a name = "link to Horiseon"></a>
 
-
+https://rsolov23.github.io/Horiseon-Weekly-Challenge/
 
 ## Contributors <a name = "contributors"></a>
 
