@@ -1,13 +1,14 @@
+/*All elements with this border box, padding and margin */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
-
+/*body under header given this color */
 body {
   background-color: #d9dcd6;
 }
-
+/*header padding, fonts, color and background color */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -15,16 +16,16 @@ body {
   background-color: #2a607c;
   color: #ffffff;
 }
-
+/*makes the header align horizontally */
 .header h1 {
   display: inline-block;
   font-size: 48px;
 }
-
+/*colors S-E-O gray */
 .header h1 .seo {
   color: #d9dcd6;
 }
-
+/*aligns heading to the right */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -32,25 +33,25 @@ body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
-
+/*no markers for unordered list*/
 .header ul {
   list-style-type: none;
 }
-
+/*makes the headings align horizontally */
 .header ul li {
   display: inline-block;
   margin-left: 25px;
 }
-
+/*defines color id the headers*/
 a {
   color: #ffffff;
   text-decoration: none;
 }
-
+/*defines font size of the wording under the headers*/
 p {
   font-size: 16px;
 }
-
+/*defines properties of the images in the headers*/
 .hero {
   height: 800px;
   width: 100%;
@@ -59,23 +60,23 @@ p {
   background-size: cover;
   background-position: center;
 }
-
+/*defines position of first and third header*/
 .float-left {
   float: left;
   margin-right: 25px;
 }
-
+/*defines positions of second header*/
 .float-right {
   float: right;
   margin-left: 25px;
 }
-
+/*defines inline block width and margin */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
-
+/*colors and aligns headers*/
 .content div {
   margin-bottom: 20px;
   padding: 50px;
@@ -84,16 +85,16 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-
+/*defines header image height*/
 .content div img {
   max-height: 200px;
 }
-
+/*defines font size and margin of headers*/
 .content div h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/*defines color and position of benefits*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -104,31 +105,31 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
-
+/*defines margin and color of benefits*/
 .benefits div {
   margin-bottom: 32px;
   color: #ffffff;
 }
-
+/*aligns text in center for benefits*/
 .benefit div h3 {
   margin-bottom: 10px;
   text-align: center;
 }
-
+/*defines image type, margin and width*/
 .benefits div img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
-
+/*defines size in h2 of footer*/
+.footer h2 {
+  font-size: 20px;
+}
+/*defines font,alignment and padding of footer*/
 .footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
-}
-
-.footer h2 {
-  font-size: 20px;
 }
